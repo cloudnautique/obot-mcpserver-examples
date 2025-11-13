@@ -34,6 +34,8 @@ docker build -t python-mcp-server .
 docker run -p 9000:9000 python-mcp-server
 ```
 
+![Python Container Setup](assets/img/python-container-setup.png)
+
 **Dependencies:**
 
 - Python 3.11+
@@ -67,6 +69,8 @@ cd typescript
 docker build -t typescript-mcp-server .
 docker run -p 9000:9000 typescript-mcp-server
 ```
+
+![TypeScript Container Setup](assets/img/typescript-container-setup.png)
 
 **Dependencies:**
 

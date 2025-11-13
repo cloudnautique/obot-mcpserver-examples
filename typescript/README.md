@@ -63,6 +63,8 @@ With custom port:
 docker run -p 8080:8080 -e PORT=8080 mcp-add-server
 ```
 
+![TypeScript Container Setup](../assets/img/typescript-container-setup.png)
+
 ## Usage Example
 
 Initialize the MCP session:
