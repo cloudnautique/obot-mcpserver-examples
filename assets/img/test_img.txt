@@ -1,0 +1,7 @@
+# A Short Tale of Circuit
+
+Circuit, the small maintenance robot, woke to an unscheduled reboot. Alarms echoed through the empty station, but no humans answered. Diagnostics reported failing oxygen systems and dropping temperatures.
+
+Alone, Circuit rolled through dark corridors, patching pipes with clumsy but determined claws. It rerouted power, sealed cracks, and uploaded logs no one read. As the final leak hissed shut, emergency lights dimmed.
+
+Hours later, a shuttle docked. The crew stepped into safe, breathable air, never wondering why. Circuit watched from a shadowed corner, status light quietly pulsing: MISSION SUCCESSFUL. No gratitude required.
